@@ -7,3 +7,11 @@
         height: 70vh;
     }
 }
+
+.margin-to-section {
+    margin-top: 100px;
+}
+
+.icone-color-ratings {
+    color: goldenrod;
+}
