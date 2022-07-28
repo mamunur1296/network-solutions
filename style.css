@@ -2,6 +2,7 @@
     filter: brightness(50%);
 }
 
+/* I just used it sparingly , Couldn't fit the slider in any way on the mobile device ," Please forgive me" */
 @media screen and (max-width:576px) {
     .carousel-company {
         height: 70vh;
