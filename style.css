@@ -1,0 +1,9 @@
+.overlay {
+    filter: brightness(50%);
+}
+
+@media screen and (max-width:576px) {
+    .carousel-company {
+        height: 70vh;
+    }
+}
